@@ -52,8 +52,8 @@ ng build --prod --base-href=/Udemy-B4FSW5P1/
 git add -A
 git commit -m <titule> <message>
 git push origin <branch>
-git subtree push --prefix dist/course origin gh-pages
-git push origin `git subtree split --prefix dist/course master`:gh-pages --force
+git subtree push --prefix ./ origin gh-pages
+git push origin `git subtree split --prefix ./ master`:gh-pages --force
 ```
 
 <!-- MARKDOWN LINKS & IMAGES -->
