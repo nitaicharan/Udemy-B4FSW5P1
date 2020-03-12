@@ -3,11 +3,7 @@
 <!-- PROJECT SHIELDS -->
 
 ![Udemy][udemy-shield]
-![Angular][angular-shield]
-![TypeScript][typescript-shield]
 ![HTML5][html5-shield]
-![CSS3][css3-shield]
-![Sass][sass-shield]
 ![Bootstrap][bootstrap-shield]
 
 Project available to access at: https://nitaicharan.github.io/Udemy-B4FSW5P1/
