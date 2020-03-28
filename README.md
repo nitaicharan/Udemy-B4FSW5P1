@@ -5,8 +5,10 @@
 ![Udemy][udemy-shield]
 ![HTML5][html5-shield]
 ![Bootstrap][bootstrap-shield]
+![JavaScript][javascript-shield]
+![jQuery][jquery-shield]
 
-<p align="center">:warning: Project available to access at: :bangbang: https://nitaicharan.github.io/Udemy-B4FSW5P1/ :bangbang:</p>
+<p align="center">:bangbang: Project available to access at: https://nitaicharan.github.io/Udemy-B4FSW5P1 :bangbang:</p>
 
 <!--[![](Udemy-B4FSW5P1.png)](https://nitaicharan.github.io/Udemy-B4FSW5P1/)-->
 <a href="https://nitaicharan.github.io/Udemy-B4FSW5P1">
